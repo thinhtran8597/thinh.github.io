@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Wood Stamp';
+    src: local('WoodStamp'),
+    url('WoodStamp.woff2') format('woff2'),
+    url('woodstamp.woff') format('woff'),
+    url('woodStamp.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'futura';
+    src: local('futura'),
+    url('Futura-Condensed-Extra-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
